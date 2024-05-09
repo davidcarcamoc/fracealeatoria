@@ -11,7 +11,7 @@ function aleatorio(aleatorio){
                 "Ciclo de nutrientes",
                 "Interdependencia",
                 "Biodiversidad",
-                "Ecosistema",],
+                ,],
     
         frace:["La agroecología busca sistemas agrícolas más sostenibles y respetuosos con el medio ambiente.",
                 "La diversidad de cultivos y especies beneficia la salud de los agroecosistemas.",
